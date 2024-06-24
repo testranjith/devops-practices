@@ -1,3 +1,4 @@
 vm size
 vm values
 storage acccount
+database

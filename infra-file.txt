@@ -1,0 +1,3 @@
+vm size
+vm values
+storage acccount
